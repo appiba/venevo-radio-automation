@@ -1,0 +1,23 @@
+SUBE ESTOS ARCHIVOS AL REPOSITORIO DE GITHUB:
+
+1. index.html
+2. style.css
+3. script.js
+4. manifest.json
+5. README.md
+6. .nojekyll
+
+IMPORTANTE:
+
+Si solo ves 5 archivos, no pasa nada raro.
+El archivo que no ves es .nojekyll porque Windows puede ocultar archivos que empiezan con punto.
+
+Para esta app, los 5 archivos principales son los importantes:
+
+- index.html
+- style.css
+- script.js
+- manifest.json
+- README.md
+
+El archivo .nojekyll ayuda a GitHub Pages, pero si no lo puedes ver, la app puede funcionar igual.
