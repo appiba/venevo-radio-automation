@@ -1,9 +1,0 @@
-{
-  "name": "Venevo Radio Automation",
-  "short_name": "Venevo Radio",
-  "description": "Consola local de automatizacion radial para musica, cunas, IDs y programas.",
-  "start_url": "index.html",
-  "display": "standalone",
-  "background_color": "#10100f",
-  "theme_color": "#36d399"
-}
